@@ -1,4 +1,4 @@
-# Nilearn_extend_fmri
+# Nilearn_extend_exsamples_fmri
 extend application exercises of fmri by nilearn
 
 this project only used personal for the application project
