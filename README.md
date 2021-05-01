@@ -10,7 +10,7 @@ which includes canICA or Dictionary learning and the functional connective
 https://nilearn.github.io/auto_examples/index.html#tutorial-examples
 
 for further information about nilearn
-Machine learning for neuroimaging with scikit-learn
+# Machine learning for neuroimaging with scikit-learn
 
 AUTHOR=Abraham Alexandre, Pedregosa Fabian, Eickenberg Michael, Gervais Philippe, Mueller Andreas, Kossaifi Jean, Gramfort Alexandre, Thirion Bertrand, Varoquaux Gael
 	 
