@@ -7,7 +7,7 @@ origin source coubld be found at nilearn website
 
 which includes canICA or Dictionary learning and the functional connective
 
-https://nilearn.github.io/auto_examples/index.html#tutorial-examples
+URL=https://nilearn.github.io/stable/auto_examples/index.html
 
 ## for further information about nilearn
 # Machine learning for neuroimaging with scikit-learn
