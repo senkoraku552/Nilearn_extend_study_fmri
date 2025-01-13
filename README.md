@@ -11,8 +11,8 @@ Nilearn enables approachable and versatile analyses of brain volumes. It provide
 
 It supports general linear model (GLM) based analysis and leverages the scikit-learn Python toolbox for multivariate statistics with applications such as predictive modeling, classification, decoding, or connectivity analysis.
 
-## for further information about nilearn
-# Machine learning for neuroimaging with scikit-learn
+# For further information about nilearn
+## Machine learning for neuroimaging with scikit-learn
 
 AUTHOR=Abraham Alexandre, Pedregosa Fabian, Eickenberg Michael, Gervais Philippe, Mueller Andreas, Kossaifi Jean, Gramfort Alexandre, Thirion Bertrand, Varoquaux Gael
 	 
