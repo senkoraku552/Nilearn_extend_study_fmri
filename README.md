@@ -24,8 +24,8 @@ Journal: Frontiers in Neuroinformatics
 Volume: 8  
 Year: 2014  
 Pages: 14  
-[URL=https://www.frontiersin.org/article/10.3389/fninf.2014.00014](https://www.frontiersin.org/article/10.3389/fninf.2014.00014)  
-[DOI=https://doi.org/10.3389/fninf.2014.00014](https://doi.org/10.3389/fninf.2014.00014)  
+URL=[https://www.frontiersin.org/article/10.3389/fninf.2014.00014](https://www.frontiersin.org/article/10.3389/fninf.2014.00014)  
+DOI=[https://doi.org/10.3389/fninf.2014.00014](https://doi.org/10.3389/fninf.2014.00014)  
 ISSN: 1662-5196
 
 ### Abstract
