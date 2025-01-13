@@ -14,22 +14,20 @@ It supports general linear model (GLM) based analysis and leverages the scikit-l
 # For further information about nilearn
 ## Machine learning for neuroimaging with scikit-learn
 
-AUTHOR=Abraham Alexandre, Pedregosa Fabian, Eickenberg Michael, Gervais Philippe, Mueller Andreas, Kossaifi Jean, Gramfort Alexandre, Thirion Bertrand, Varoquaux Gael
-	 
-TITLE=Machine learning for neuroimaging with scikit-learn  
-	
-JOURNAL=Frontiers in Neuroinformatics     
-	
-VOLUME=8      
-	
-YEAR=2014
-	
-PAGES=14   
-		
-URL=https://www.frontiersin.org/article/10.3389/fninf.2014.00014     
-	  
-DOI=10.3389/fninf.2014.00014    
-	
-ISSN=1662-5196   
+**AUTHOR:** Abraham Alexandre, Pedregosa Fabian, Eickenberg Michael, Gervais Philippe, Mueller Andreas, Kossaifi Jean, Gramfort Alexandre, Thirion Bertrand, Varoquaux Gael
 
-ABSTRACT=Statistical machine learning methods are increasingly used for neuroimaging data analysis. Their main virtue is their ability to model high-dimensional datasets, e.g., multivariate analysis of activation images or resting-state time series. Supervised learning is typically used in decoding or encoding settings to relate brain images to behavioral or clinical observations, while unsupervised learning can uncover hidden structures in sets of images (e.g., resting state functional MRI) or find sub-populations in large cohorts. By considering different functional neuroimaging applications, we illustrate how scikit-learn, a Python machine learning library, can be used to perform some key analysis steps. Scikit-learn contains a very large set of statistical learning algorithms, both supervised and unsupervised, and its application to neuroimaging data provides a versatile tool to study the brain.
+### Title
+Machine Learning for Neuroimaging with scikit-learn
+
+### Source
+Journal: Frontiers in Neuroinformatics  
+Volume: 8  
+Year: 2014  
+Pages: 14  
+[URL](https://www.frontiersin.org/article/10.3389/fninf.2014.00014)  
+[DOI](https://doi.org/10.3389/fninf.2014.00014)  
+ISSN: 1662-5196
+
+### Abstract
+Statistical machine learning methods are increasingly used for neuroimaging data analysis. Their main virtue is their ability to model high-dimensional datasets, such as multivariate analysis of activation images or resting-state time series. Supervised learning is typically employed in decoding or encoding settings to relate brain images to behavioral or clinical observations, whereas unsupervised learning can uncover hidden structures in sets of images (e.g., resting state functional MRI) or identify sub-populations in large cohorts. Through various functional neuroimaging applications, this paper illustrates how scikit-learn, a Python machine learning library, can be utilized to perform key analysis steps. Scikit-learn offers a comprehensive set of statistical learning algorithms, both supervised and unsupervised, making it a versatile tool for studying the brain.
+
