@@ -13,9 +13,8 @@ It supports general linear model (GLM) based analysis and leverages the scikit-l
 
 Important links
 
-    Official source code repo: https://github.com/nilearn/nilearn/
-
-    HTML documentation (stable release): https://nilearn.github.io/
+Official source code repo: https://github.com/nilearn/nilearn/[https://github.com/nilearn/nilearn/]
+HTML documentation (stable release): https://nilearn.github.io/[https://nilearn.github.io/]
 
 # For further information about nilearn
 ## Machine learning for neuroimaging with scikit-learn
