@@ -1,13 +1,15 @@
 # Nilearn_extend_exsamples_fmri
-extend application exercises of fmri by nilearn
-
-this project only used personal for the application project
-
-origin source coubld be found at nilearn website
-
-which includes canICA or Dictionary learning and the functional connective
+Extend application exercises of fmri by nilearn
+This project only used personal for the application project
+Origin source coubld be found at nilearn website
+Which includes canICA or Dictionary learning and the functional connective
 
 URL=https://nilearn.github.io/stable/auto_examples/index.html
+
+# Acknowladge
+Nilearn enables approachable and versatile analyses of brain volumes. It provides statistical and machine-learning tools, with instructive documentation & friendly community.
+
+It supports general linear model (GLM) based analysis and leverages the scikit-learn Python toolbox for multivariate statistics with applications such as predictive modeling, classification, decoding, or connectivity analysis.
 
 ## for further information about nilearn
 # Machine learning for neuroimaging with scikit-learn
